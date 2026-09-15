@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sleep apnea dataset
+data/raw/
+data/processed/
+
+# Generated model files
+models/*.pkl
+models/*.joblib
+
+# Generated results
+results/
