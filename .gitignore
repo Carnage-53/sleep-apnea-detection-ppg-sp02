@@ -236,4 +236,5 @@ models/*.pkl
 models/*.joblib
 
 # Generated results
-results/
+# Ignore temporary results by default
+# results/
