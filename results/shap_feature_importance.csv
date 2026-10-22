@@ -1,0 +1,12 @@
+feature,mean_absolute_shap
+ppg_mean_abs_diff,0.7090698
+ppg_iqr,0.46702302
+ppg_std,0.2656542
+spo2,0.26040977
+ppg_slope,0.19592442
+ppg_max,0.1918482
+ppg_rms,0.18019806
+ppg_range,0.17710926
+ppg_mean,0.17694639
+ppg_median,0.15282245
+ppg_min,0.097194724
